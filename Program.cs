@@ -1,5 +1,5 @@
 ﻿//Griffin Parker
-//September 8 2022
+//October 18, 2022
 //Mini Challenge 4 Remastered - Greater Than or Less Than
 //Using if statements to compare two different numbers, my program will tell the user if their numbers are greater, lesser, or equal to each other
 //Code Peer-reviewed by
