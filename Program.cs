@@ -55,6 +55,7 @@ end = true;
 Console.WriteLine();
 
 //This while loop contains the part of the program that lets the user restart or end the program
+//It will only end when the user types "yes" or "no"
 while (end == true)
 {
 Console.WriteLine("Would you like to compare numbers again? \"yes\" or \"no\"?");
@@ -62,7 +63,7 @@ repeat = Console.ReadLine();
 repeat = repeat.ToLower();
 if (repeat == "yes")
 {
-//These variables are used to break out of the restart while loop and reset the program to begin again
+//These variables are used to break out of the restart while loop, and reset the program's important variables to begin again
 end = false;
 number1Checker = false;
 number2Checker = false;
