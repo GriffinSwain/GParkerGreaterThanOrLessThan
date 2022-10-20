@@ -2,6 +2,8 @@
 //October 19, 2022
 //Mini Challenge 4 Remastered - Greater Than or Less Than
 //Using if statements to compare two different numbers, my program will tell the user if their numbers are greater, lesser, or equal to each other
+//Peer Review by: Jasmine Leek - program runs exactly as intended and did not break under all tested conditions.
+//Great comments which clearly outline each step of the program. Nice!
 
 
 //Initializing the variables that will be used in the program
